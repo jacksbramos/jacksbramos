@@ -1,4 +1,4 @@
- Bem vindo! 🙋
+ Bem vindo! 👩‍🦱
 
  <hr>
  Eu sou Jaqueline Barbosa.
