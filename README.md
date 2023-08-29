@@ -16,7 +16,7 @@
 Minhas estatísticas:
 
 [![jacsbramos GitHub stats](https://github-readme-stats.vercel.app/api?username=jacksbramos&theme=nightowl)](https://github.com/jacsbramos/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacksbramos&DonutChartlayout)](https://github.com/jacksbramos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacksbramos&layout=donut-vertical)](https://github.com/jacksbramos/github-readme-stats)
 
 Minhas principais linguagens:
 
